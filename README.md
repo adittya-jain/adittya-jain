@@ -235,13 +235,13 @@ I enjoy taking technology apart, understanding what sits underneath the abstract
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adittya-jain&theme=github_dark" />
+<a href="https://github.com/adittya-jain?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adittya-jain&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adittya-jain&theme=github_dark" />
+<a href="https://github.com/adittya-jain?tab=stars">
+  <img src="https://img.shields.io/badge/GitHub-adittya--jain-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
