@@ -238,36 +238,6 @@ Also revisiting DSA through **JavaScript** to strengthen language fundamentals.
 
 ---
 
-## 💼 Experience
-
-### Application Development Intern
-
-**Anjaniputra Games**
-
-Worked on application development and implemented functionality around **in-app perks based on player playtime**.
-
-### Web Development Intern
-
-**InternPe**
-
-Built projects including:
-
-* Interactive To-Do application
-* Calculator
-* Multi-page E-Commerce website
-
-Worked with **HTML, CSS, JavaScript, responsive design, DOM manipulation, usability, and debugging**.
-
-### Graphic Design Intern
-
-**Sach Bedhadak**
-
-Worked with **Adobe Photoshop** and visual assets for digital/media content.
-
-A slightly unusual stop on the developer journey, but one that gave me an appreciation for the visual side of building products.
-
----
-
 ## 🧪 My Natural Habitat
 
 ```bash
